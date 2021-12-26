@@ -1,0 +1,7 @@
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache

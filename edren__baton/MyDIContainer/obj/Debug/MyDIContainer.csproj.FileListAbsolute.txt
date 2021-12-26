@@ -1,0 +1,7 @@
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\bin\Debug\MyDIContainer.exe.config
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\bin\Debug\MyDIContainer.exe
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\bin\Debug\MyDIContainer.pdb
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\obj\Debug\MyDIContainer.csproj.AssemblyReference.cache
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\obj\Debug\MyDIContainer.csproj.CoreCompileInputs.cache
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\obj\Debug\MyDIContainer.exe
+C:\Users\Nuuskamuikkunen\source\repos\MyDictionary\MyDIContainer\obj\Debug\MyDIContainer.pdb
